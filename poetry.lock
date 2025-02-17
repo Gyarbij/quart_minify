@@ -493,18 +493,17 @@ files = [
 
 [[package]]
 name = "lesscpy"
-version = "0.13.0"
+version = "0.15.1"
 description = "Python LESS compiler"
 optional = false
 python-versions = "*"
 files = [
-    {file = "lesscpy-0.13.0-py2.py3-none-any.whl", hash = "sha256:72a38c751681e91e258825c1e826c38508c183f48b2e420e1a65d01eaa04bac3"},
-    {file = "lesscpy-0.13.0.tar.gz", hash = "sha256:f3c6d0b544c5bcdadcd3d8319feccb4128d06676d4117c6c9396ab39c25372ad"},
+    {file = "lesscpy-0.15.1-py2.py3-none-any.whl", hash = "sha256:8d26e58ed4812b345c2896daea435a28cb3182f87ae3391157085255d4c37dff"},
+    {file = "lesscpy-0.15.1.tar.gz", hash = "sha256:1045d17a98f688646ca758dff254e6e9c03745648e051a081b0395c3b77c824c"},
 ]
 
 [package.dependencies]
 ply = "*"
-six = "*"
 
 [[package]]
 name = "markupsafe"
